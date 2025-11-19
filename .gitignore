@@ -1,4 +1,7 @@
 materials/
-.pdf
-.txt
-.docx
+*.pdf
+*.txt
+*.docx
+*.odt
+
+*venv/
