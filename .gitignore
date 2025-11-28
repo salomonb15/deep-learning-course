@@ -1,7 +1,6 @@
 materials/
-*.pdf
 *.txt
-*.docx
 *.odt
-
+__pycache__
+.idea
 *venv/
